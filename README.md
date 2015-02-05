@@ -1,6 +1,6 @@
 # url-shortener
 
-An URL shortener utilizing [Express 4](http://expressjs.com/)
+An URL shortener utilizing [Express 4](http://expressjs.com/). This application can tie any URL to a shorter ID which can be used to access the link afterwards.
 
 ## Usage
 
