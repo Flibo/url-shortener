@@ -12,3 +12,7 @@ This application has the following interface:
 
 **GET /{id}**
 + Returns: Redirects the user to the stored URL in case the ID is valid
+
+## About
+
+This application is based on [a barebones Node.js app](https://github.com/heroku/node-js-getting-started) by Heroku.
